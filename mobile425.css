@@ -1,0 +1,42 @@
+
+
+img{
+    position: absolute;
+    height: 250px;
+    width: 300px;
+    top:11%;
+    left: 60px;
+}
+h1{
+    top: 370px;
+    left: 50px;
+    line-height: 55px;
+    font-size: 4.5rem;
+}
+
+.parrafo1{
+    left: 50px;
+    top: 510px;
+    font-size: 1.8rem;
+    line-height: 27px;
+    margin: 2px;
+}
+
+button{
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 50px;
+    top: 630px;
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+
+footer{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 750px;
+    margin-left: 50px;
+}
