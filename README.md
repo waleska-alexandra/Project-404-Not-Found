@@ -45,6 +45,10 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What have you learned/improved?
 - Your wisdom? :)
 
+This was an great challenge for newbie front end developer like me. Obviously, if you have many experience, this one could be very easy and unnecessary.
+I was able to improve things like responsive design and I had my first meet with Figma. I think this was a great opportunity. 
+I finished this project with more knowledge about HTML and CSS. 
+
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -64,10 +68,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Responsive Design Course](https://platzi.com/home)
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@waleska-alexandra](https://{https://github.com/waleska-alexandra})
 - Twitter [@rangelwaleska_](https://{https://twitter.com/rangelwaleska_})
