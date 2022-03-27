@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@rangelwaleska_(https://{https://twitter.com/rangelwaleska_})
+- Twitter [@rangelwaleska_](https://{https://twitter.com/rangelwaleska_})
